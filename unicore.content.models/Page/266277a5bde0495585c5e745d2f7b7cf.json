@@ -1,0 +1,29 @@
+{
+  "subtitle": "Introducc\u00ed\u00f3n", 
+  "description": "Informaci\u00f3n para madres, padres y familias sobre como tener una maternidad sin riesgos y de la salud del reci\u00e9n nacido.", 
+  "language": "spa_MX", 
+  "title": "Maternidad sin riesgos y salud del reci\u00e9n nacido", 
+  "primary_category": "c5c9f9300eab4123b742c061bc507e57", 
+  "created_at": "2015-03-16T23:59:49.277414+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-03-16T23:59:49.277612+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Muchas mujeres \u2013incluyendo adolescentes con embarazo temprano\u2013 afrontan grandes dificultades para acceder a una atenci\u00f3n sanitaria de calidad debido a la pobreza, a las distancias que las separan de los centros de salud, a la falta de informaci\u00f3n, y a la deficiencia de los servicios o las pr\u00e1cticas culturales. \r\n\r\nCon el apoyo de grupos comunitarios y de organizaciones de la sociedad civil, los gobiernos y las autoridades locales tienen la obligaci\u00f3n de abordar estas cuestiones para que las mujeres reciban la atenci\u00f3n sanitaria de calidad que necesitan y a la cual tanto ellas como sus hijos reci\u00e9n nacidos tienen derecho.\r\n\r\n\r\n**Los riesgos para la madre y su hijo se reducen notablemente cuando:**\r\n\r\n1. La mujer tiene buena salud y un adecuado estado nutricional;\r\n2. La mujer realiza, al menos, cinco visitas prenatales con un medico o personal de salud capacitado;\r\n3. El parto es asistido en una maternidad o en un hospital con condiciones de seguridad;\r\n4. En caso de surgir alguna complicaci\u00f3n, la madre y el beb\u00e9 tienen acceso a atenci\u00f3n especializada; y\r\n5. Un medico o personal de salud examina a la madre y al beb\u00e9 peri\u00f3dicamente en el transcurso de las 24 horas posteriores al parto,  durante la primera semana, cada vez que sea necesario y seis semanas despu\u00e9s del nacimiento.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "eef72fbf02a84f04b61e29da2df87c67", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "maternidad-sin-riesgos-y-salud-del-recien-nacido", 
+  "uuid": "266277a5bde0495585c5e745d2f7b7cf"
+}
