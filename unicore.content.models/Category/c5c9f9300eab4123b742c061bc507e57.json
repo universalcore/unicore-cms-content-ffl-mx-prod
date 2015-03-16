@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "c5c9f9300eab4123b742c061bc507e57", 
+  "language": "spa_ES", 
+  "title": "Maternidad sin riesgos y salud del recie\u0301n nacido ", 
+  "image": "d82de5eaa60b448caf7977eb1afcee6b", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "maternidad-sin-riesgos-y-salud-del-recien-nacido", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}
