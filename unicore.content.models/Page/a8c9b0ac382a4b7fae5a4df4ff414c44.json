@@ -1,20 +1,22 @@
 {
-  "subtitle": "", 
+  "subtitle": "Prevenci\u00f3n del embarazo temprano en la adolescencia", 
   "description": "Informaci\u00f3n sobre la importancia de prevenir el embarazo temprano en la adolescencia", 
   "language": "spa_MX", 
   "title": "Prevenci\u00f3n del embarazo temprano en la adolescencia", 
   "primary_category": "c5c9f9300eab4123b742c061bc507e57", 
-  "created_at": "2015-03-17T00:17:46.253355+00:00", 
+  "created_at": "2015-03-17T00:17:46+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-03-17T00:17:46.254071+00:00", 
+  "modified_at": "2015-03-17T00:18:23.892642+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "266277a5bde0495585c5e745d2f7b7cf"
+  ], 
   "id": null, 
   "content": "***Siempre y cuando empiecen a procrear despu\u00e9s de los 17 a\u00f1os, las ni\u00f1as que han asistido a la escuela, que gozan de buena salud y que han tenido una dieta nutritiva durante la infancia y la adolescencia tienen mayores probabilidades de dar a luz hijos sanos y de no sufrir complicaciones durante el embarazo y el parto.***\r\n\r\n**Las ni\u00f1as que asisten m\u00e1s tiempo a la escuela tienen menos probabilidades de quedar embarazadas a una edad demasiado temprana**, tienen menos embarazos, los espacian m\u00e1s y asisten peri\u00f3dicamente a las visitas prenatales y postnatales. Se calcula que por cada a\u00f1o adicional de escolarizaci\u00f3n se evitan dos muertes maternas por cada 1.000 mujeres.\r\n\r\n**El embarazo precoz puede tener graves repercusiones para las ni\u00f1as menores de 17 a\u00f1os y, en especial, para las menores de 15 a\u00f1os, que corren m\u00e1s riesgo de sufrir complicaciones.** Por eso, es importante proporcionar informaci\u00f3n a las ni\u00f1as y las adolescents y darles las herramientas que necesitan para evitar el embarazo a temprana edad, y hacerles llegar, al igual que a los ni\u00f1os, informaci\u00f3n sobre los riesgos del embarazo precoz y las infecciones de transmisi\u00f3n sexual, incluyendo el VIH. Deben adquirir la capacidad de tomar decisiones beneficiosas para su salud que, al mismo tiempo, promuevan la igualdad entre los g\u00e9neros y el respeto en las relaciones. Tambi\u00e9n deben adquirir las capacidades para resistir y denunciar presiones y abuso sexual, incluso en el seno de la familia o la comunidad.\r\n\r\nTambi\u00e9n es indispensable que las familias se sensibilicen sobre los riesgos que conlleva el embarazo precoz. **Cuando una ni\u00f1a adolescente se casa o queda embarazada, su familia debe apoyarla y ayudarla a acceder a los servicios de salud que requiere.**\r\n\r\n**Un desarrollo sano en la adolescencia se traduce en embarazos saludables cuando las ni\u00f1as llegan a la edad de procrear**. Adem\u00e1s de la educaci\u00f3n y la atenci\u00f3n de su salud, las ni\u00f1as necesitan una dieta nutritiva durante la infancia y la adolescencia para evitar complicaciones futuras durante el embarazo y el parto. \r\n\r\n**Una dieta nutritiva incluye sal yodada y alimentos ricos en minerales y vitaminas esenciales**, como carnes,\r\nv\u00edsceras, lentejas, porotos, garbanzos y otras leguminosas; granos; verduras de hoja verde; y frutas y hortalizas de color rojo, amarillo y naranja. En lo posible, la dieta tambi\u00e9n debe incluir leche u otros productos l\u00e1cteos, huevos y carnes de distintos tipos (rojas y blancas:.aves y, pescados).", 
   "source": null, 
